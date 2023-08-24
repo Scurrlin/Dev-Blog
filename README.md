@@ -1,5 +1,5 @@
 # Dev-Blog
-A blog made with Mongoose, Node.js, Express, and EJS. !
+A blog made with Mongoose, Node.js, Express, and EJS!
 
 ![banner_image](https://i.imgur.com/mxuoBWN.png)
 
